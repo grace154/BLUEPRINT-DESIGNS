@@ -133,161 +133,60 @@ padding-top:100px;
   flex-direction: column; /* Stack image and text vertically */
   align-items: center;
 }
- /* responsiveness */
-@media (max-width: 1600px )  {
-  .navbar-logo {
-  height: 40px; /* adjust as needed */ 
-  display: flex;
-  flex-direction: column; /* Stack image and text vertically */
-  align-items: center;
+
+  .nav-links {
+    gap: 0.4rem;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
   }
-  .navbar-center {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-.navbar {
-  background-color: #1F2A44;
-  width: 100%;
-  padding: 3rem 0rem;
-  position: fixed;
-  top: 0;
-  left: 0;
-  z-index: 999;
-  box-sizing: border-box;
-  min-height: 10px;
-  margin: 0;
-  display: flex;
-  align-items: center;
-  
-}
-.navbar-container{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 3rem; /* Space between links groups and logo */
-  max-width: 1500px;
-  margin: 0 auto;
-  padding: 0 20px;
-  margin-left: -30px;
-
-}
-.nav-links {
-  display: flex;
-  gap: 4rem; /* Space between individual links */
-  font-size: 1.6px;
-}
-.navbar-logo img {
-  width: 40px; 
-  height: auto;
-  margin: 2 4rem; /* Space around logo */
-  margin: -30px -14px 0 4px;
-}
-.logo-text {
-  font-weight: bold;
-  font-size: 1.8rem;
-  line-height: 1;
-  margin-top:-5px;
-  margin-right: -35px;
-  white-space: nowrap; /* Keeps text on one line */
-  color: #fff;
-}
-.navbar a:hover {
-  color: #ff9900;
-}
-
-body {
-  margin: 0;
-  font-family: 'Segoe UI', sans-serif;
-  background-color: #f9f9f9;
-  color: #333;
-}
-.next-section {
-  position: relative;
-  padding: 2rem 1rem;
-  background: #f8f9fa;
-  z-index: 2; /* Ensure it's above hero section */
-  margin-top: -5px; /* Overlap adjustment */
-  border-radius: 30px;
-}
-}
-@media (max-width: 932px ){
-  .navbar-logo {
-  height: 40px; /* adjust as needed */ 
-  display: flex;
-  flex-direction: column; /* Stack image and text vertically */
-  align-items: center;
+  .navbar a {
+    font-size: 0.85rem;
+    padding: 0.4rem 0.3rem;
   }
-  .navbar-center {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-.navbar {
-  background-color: #1F2A44;
-  width: 100%;
-  padding: 3rem 0rem;
-  position: fixed;
-  top: 0;
-  left: 0;
-  z-index: 999;
-  box-sizing: border-box;
-  min-height: 10px;
-  margin: 0;
-  display: flex;
-  align-items: center;
-  
-}
-.navbar-container{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 3rem; /* Space between links groups and logo */
-  max-width: 1500px;
-  margin: 0 auto;
-  padding: 0 20px;
-  margin-left: -30px;
+  .logo-text {
+    font-size: 0.9rem;
+  }
+  .navbar-logo img {
+    width: 22px;
+  }
+@media (max-width: 768px) {
+  .navbar {
+    padding: 1rem 0;
+    justify-content: center;
+  }
 
-}
-.nav-links {
-  display: flex;
-  gap: 4rem; /* Space between individual links */
-  font-size: 1.6px;
-}
-.navbar-logo img {
-  width: 40px; 
-  height: auto;
-  margin: 2 4rem; /* Space around logo */
-  margin: -30px -14px 0 4px;
-}
-.logo-text {
-  font-weight: bold;
-  font-size: 1.8rem;
-  line-height: 1;
-  margin-top:-5px;
-  margin-right: -35px;
-  white-space: nowrap; /* Keeps text on one line */
-  color: #fff;
-}
-.navbar a:hover {
-  color: #ff9900;
+  .navbar-container {
+    flex-direction: column;
+    gap: 2rem; /* Reduced gap for smaller screens */
+    padding: 0 10px;
+  }
+
+  .nav-links {
+    gap: 0.4rem;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+     font-size: 2.85rem;
+  }
+
+  .navbar a {
+    font-size: 2.85rem;
+    padding: 0.4rem 0.3rem;
+  }
+
+  .navbar-logo img {
+    width: 22px;
+    margin: 0;
+  }
+
+  .logo-text {
+    font-size: 2.5rem;
+    margin-right: 0;
+    margin-top: 5px;
+  }
 }
 
-body {
-  margin: 0;
-  font-family: 'Segoe UI', sans-serif;
-  background-color: #f9f9f9;
-  color: #333;
-}
-.next-section {
-  position: relative;
-  padding: 2rem 1rem;
-  background: #f8f9fa;
-  z-index: 2; /* Ensure it's above hero section */
-  margin-top: -5px; /* Overlap adjustment */
-  border-radius: 30px;
-}
-}
 body {
   margin: 0;
   font-family: 'Segoe UI', sans-serif;
@@ -413,7 +312,7 @@ body {
 
 .hero-grid {
   margin-bottom:380px;
-  margin-top: -280px;
+  margin-top: -680px;
   margin-left: 40px;
   margin-right: 40px;
   display: grid;
