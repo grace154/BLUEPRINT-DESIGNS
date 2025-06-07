@@ -321,7 +321,7 @@ body {
   box-shadow: 0 16px 48px rgba(0,0,0,0.2);
   transform: none;
   position:relative;
-  min-width: 1400px; /* Wider text container */
+  min-width: 1000px; /* Wider text container */
   height:700px;
   padding: 2 5rem; /* Increased padding */
   background: #1f2a44; /* Darker overlay for better readability */
@@ -665,7 +665,7 @@ body {
   max-width: 1400px;
   text-align: left;
   margin-bottom:95px;
-  gap:150px;
+  gap:50px;
   position:relative;
   transform: none;
   margin-right: 110px;
@@ -1033,7 +1033,7 @@ right: -135px;
   margin-right: -125px;
   width: 580px;
   height: 500px;
-  right: 275px;
+  right: 175px;
 }
 .card-right {
 position: relative;
@@ -1041,7 +1041,7 @@ margin-left: auto; /* Pushes to right */
 margin-left: -155px;
 width: 590px;
 height: 500px;
-left: 105px;
+left: 75px;
 }
 
 
