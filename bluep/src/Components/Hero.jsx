@@ -186,7 +186,7 @@ Discover Expert Guidance to Build Your Ideas into Impact.</div>
     <p className="client">-James Erick.02.</p> 
 </div>
 
-<div className="card-b testimonial-card" style={{ display: 'block' }} id="card-1">
+<div className="card-b testimonial-card" style={{ display: 'none' }} id="card-1">
   <p className="feedback a">“Blueprint Designs was a game-changer. 
     Their creative and strategic approach helped us connect with
     our audience. Truly collaborative and highly recommended!”</p>
@@ -195,7 +195,7 @@ Discover Expert Guidance to Build Your Ideas into Impact.</div>
 <div className="card-b testimonial-card" style={{ display: 'block' }} id="card-1">
   <p className="feedback a">“Blueprint Designs was a game-changer. 
     Their creative and strategic approach helped us connect with
-    our audience. Truly collaborative and highly recommended!”</p>
+    our audience.<br/>Truly collaborative and highly recommended!”</p>
     <p className="client">-Jane Amore.52.</p> 
 </div>
 </div>
@@ -460,7 +460,7 @@ Discover Expert Guidance to Build Your Ideas into Impact.</div>
       </ul>
       
     </div>
-    <p className="reservation">(c)[2025] Blueprint Designs.All Rights Reserved.</p>
+    <p className="reservation">&copy;[2025] Blueprint Designs.All Rights Reserved.</p>
     </div>
     
     
