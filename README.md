@@ -1,4 +1,4 @@
-https://blueprint-designs-99xb.vercel.app/
+
 # Blueprint Designs
 
 Blueprint Designs is a comprehensive website for creating elegant, user-friendly interfaces in web development and graphic design. This project aims to provide a cohesive set of guidelines and components that enhance user experience and streamline the design process.
