@@ -10,7 +10,7 @@ Blueprint Designs is a comprehensive website for creating elegant, user-friendly
 - [Layout](#layout)
 - [Components](#components)
 - [Interactivity](#interactivity)
-- [Documentation(#Documentation)
+- [Documentation](#Documentation)
 - [Code Quality](#code-quality)
 - [Usage](#usage)
 - [Contributing](#contributing)
