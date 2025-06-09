@@ -23,14 +23,14 @@ Blueprint Designs focuses on modern design principles, ensuring that application
 ## Visual Style
 
 - **Color Palette**: Utilize a clean and minimal color scheme with a focus on whitespace.
-- **Typography**: Use clear, legible fonts with a hierarchy that emphasizes headings and body text.
-- **Shapes**: Incorporate rounded corners and subtle shadows to create a soft, approachable aesthetic.
+- **Typography**: Used clear, legible fonts with a hierarchy that emphasizes headings and body text.
+- **Shapes**: Incorporated rounded corners and subtle shadows to create a soft, approachable aesthetic.
 
 ## Layout
 
 - **Responsive Design**: Ensure layouts adapt seamlessly across devices using flexible grids and media queries.
-- **Section Structure**: Organize content into well-defined sections with appropriate spacing for clarity.
-- **Consistent Spacing**: Maintain uniform padding and margins to create a balanced visual rhythm.
+- **Section Structure**: Organized content into well-defined sections with appropriate spacing for clarity.
+- **Consistent Spacing**: Maintained uniform padding and margins to create a balanced visual rhythm.
 
 ## Components
 
@@ -39,8 +39,8 @@ Blueprint Designs focuses on modern design principles, ensuring that application
 
 ## Interactivity
 
-- **Transitions**: Implement smooth transitions for interactive elements to enhance user feedback.
-- **Accessibility**: Ensure all components are accessible, including keyboard navigation and screen reader support.
+- **Transitions**: Implemented smooth transitions for interactive elements to enhance user feedback.
+- **Accessibility**: Ensured all components are accessible, including keyboard navigation and screen reader support.
 
 ## Documentation
 
