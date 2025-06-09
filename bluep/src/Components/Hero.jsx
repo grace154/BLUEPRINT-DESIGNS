@@ -60,7 +60,7 @@ const toggleAnswer = (index) => {
             <h1>Transform Your Digital Experience</h1>
            </div>
             <div>
-            <p className='discover'>Discover innovative solutions for modern businesses <br/>in Blueprint designs</p>
+            <p className='discover'>Discover innovative solutions for modern businesses <br/>tailored for our customers<br/>in Blueprint designs</p>
            
             <button className="start-button">Get started</button>
           </div>   
