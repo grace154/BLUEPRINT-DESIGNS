@@ -10,7 +10,7 @@ Blueprint Designs is a comprehensive website for creating elegant, user-friendly
 - [Layout](#layout)
 - [Components](#components)
 - [Interactivity](#interactivity)
-- [Documentation](#Documentation)
+- [Documentation](#documentation)
 - [Code Quality](#code-quality)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -41,8 +41,11 @@ Blueprint Designs focuses on modern design principles, ensuring that application
 
 - **Transitions**: Implement smooth transitions for interactive elements to enhance user feedback.
 - **Accessibility**: Ensure all components are accessible, including keyboard navigation and screen reader support.
+
 ## Documentation
-https://blueprint-designs-99xb.vercel.app/
+
+For detailed documentation, visit: [Blueprint Designs Documentation](https://blueprint-designs-99xb.vercel.app/)
+
 ## Code Quality
 
 - **Semantic HTML**: Use semantic elements to improve accessibility and SEO.
